@@ -1,4 +1,4 @@
-# DevOps Project for ShankyKay
+# DevOps Project for Shanky
 
 ##  `cd` Commands
 
