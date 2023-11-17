@@ -54,10 +54,25 @@
 
 ![ping](<images/ping1 command.png>)
 
+### `uname` command: The Uname or Unix name command will print detailed information about your Linux system and hardware. 
 
+![uname](<images/uname1 command.png>)
 
+### `top` command: This command will display all the running processes and a dynamic real time view of the current system.
 
+![top](<images/top command.png>)
 
+### `history` command: This command will list up to 500 previously executed commands, allowing you to re-use them without re-entering.
+
+![history](<images/history command.png>)
+
+### `man` command: The man command provides a user manual of any commands or utilities you can run in Terminal, including the name, description, and options 
+
+![man](<images/man ls command.png>)
+
+### `echo` command: The echo command is a built-in-utility that displays a line of text or string using the standard output. Kindly see the attached picture a sample of how it was used in the terminal.
+
+![echo](<images/echo command.png>)
 
 
 
