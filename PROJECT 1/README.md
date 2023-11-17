@@ -40,7 +40,11 @@
 
 ### `df` command: This is used to report the system disk space usage showing in percentage and kilobyte
 
-![Alt text](<images/df command.png>)
+![df command](<images/df command.png>)
+
+### `du` command: This is used to check space a directory or fil takes up, its also help to identify which part of the system uses the storage excessively
+
+![du command](<images/DU command.png>)
 
 
 
