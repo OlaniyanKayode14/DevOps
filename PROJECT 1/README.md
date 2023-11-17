@@ -2,7 +2,7 @@
 # Linux Project for Commands
 
 ## *I will be working on Linux Commands for this Project.* 
-![Alt text](images/DevOps-Projects-800x391.png)
+![Alt text](<images/linux commands.jpg>)
 
 ## File Manipulation
 
