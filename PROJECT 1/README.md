@@ -46,6 +46,15 @@
 
 ![du command](<images/DU command.png>)
 
+### `wget` command: This is used to downloads files from the internet using the wget command. It works in the background without hindering other running processes
+
+![wget](<images/wget command.png>)
+
+### `ping` command: This is one of the most used basic Linux commands for checking whether a network or a server is reachable. its used to troubleshoot various connectivity issues.
+
+![ping](<images/ping1 command.png>)
+
+
 
 
 
