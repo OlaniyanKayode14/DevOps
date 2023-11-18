@@ -4,7 +4,7 @@
 ## *I will be working on Linux Commands for this Project.* 
 ![Alt text](<images/linux commands.jpg>)
 
-## File Manipulation
+
 
 ### `Sudo` Command: This means superuser do, sudo is one of the most popular basic linux commands that lets you to perform tasks that require administrative or root permissions.
         
