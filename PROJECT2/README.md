@@ -26,3 +26,9 @@ then I swiched back to the main branch as seen below
 I also merged the two branches , so the content of master and main is merged. see image below
 
 ![Alt text](<images/git 6.png>)
+
+![Alt text](<images/git 7.png>)
+
+Deleting a branch. 
+
+When new features is added to an application 
