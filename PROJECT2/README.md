@@ -42,8 +42,11 @@ Create a github account
 
 Created a repository on github, and pushed the local git repository to the remote github repository and did a clone.
 
+![gitpush](<images/git push.png>)
 
 
+Merged the files and pushed it to the remote repository, as seen below
 
-Merged the files and pushed it to the remote repository
+![remoterepository](images/remoterepository.png)
+
 
