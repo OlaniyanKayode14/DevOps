@@ -40,7 +40,17 @@ Create a github account
 
 ![github](images/Github.png)
 
-Created a repository on github, and pushed the local git repository to the remote github repository and did a clone.
+Created a repository on github (DevOps),  and pushed the local git repository to the remote github repository and did a clone. 
+
+`git remote add origin <link to your github repo>`
+
+
+`git clone <link to your remote repository>` See below
+
+![gitclone](images/gitclone.png)
+
+
+and did push to remote repository
 
 ![gitpush](<images/git push.png>)
 
