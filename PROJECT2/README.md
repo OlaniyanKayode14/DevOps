@@ -31,4 +31,19 @@ I also merged the two branches , so the content of master and main is merged. se
 
 Deleting a branch. 
 
-When new features is added to an application 
+When new features is added to an application, it is often done in a feature branch. When it has been merged, it is usually deleted. using the code `git branch -d <branch_name>`
+
+
+## Collaborations and Remote Repositories
+
+Create a github account 
+
+![github](images/Github.png)
+
+Created a repository on github, and pushed the local git repository to the remote github repository and did a clone.
+
+
+
+
+Merged the files and pushed it to the remote repository
+
