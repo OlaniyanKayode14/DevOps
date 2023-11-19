@@ -55,7 +55,7 @@ and did push to remote repository
 ![gitpush](<images/git push.png>)
 
 
-Merged the files and pushed it to the remote repository, as seen below
+Merged the repository, and updated the remote repository `https://github.com/OlaniyanKayode14/DevOps/tree/main/PROJECT2`, as seen below
 
 ![remoterepository](images/remoterepository.png)
 
